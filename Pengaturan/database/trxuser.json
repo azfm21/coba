@@ -1,0 +1,28 @@
+[
+  {
+    "buyer": "6285174332583@s.whatsapp.net",
+    "status": "Success",
+    "no_pembayaran": "P186050",
+    "ref_id": "ARIE202403013UI",
+    "jam": "02:10:41",
+    "waktu": "02/03/24",
+    "produk": "MOBILELEGEND - 3 Diamond",
+    "harga": 1243.3,
+    "harga_modal": 1110,
+    "tujuan": "770070782143",
+    "invoice": "DCDGD202403011907047134"
+  },
+  {
+    "buyer": "6285174332583@s.whatsapp.net",
+    "status": "Success",
+    "no_pembayaran": "P604153",
+    "ref_id": "ARIE20240305ODZ",
+    "jam": "06:38:42",
+    "waktu": "06/03/24",
+    "produk": "MOBILELEGEND - 3 Diamond",
+    "harga": 1312.75,
+    "harga_modal": 1155,
+    "tujuan": "770070782143",
+    "invoice": "DCDGD202403052335065488"
+  }
+]
